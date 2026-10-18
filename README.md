@@ -6,7 +6,7 @@
 # 🤖 Agentic AI & Autonomous LLM Systems
 
 This repository contains multi-agent architectures, function-calling workflows, and high-throughput inference implementations using state-of-the-art open-source Large Language Models (LLMs) and Groq LPU hardware acceleration.
-```
+
 ---
 
 ## 🚀 Key Features & Highlights
